@@ -7,7 +7,7 @@ maxrecord = 50000
 datatype = "C"  # C for commodities, S for services
 freq = "A"		# M for monthly, A for Annually
 px = "HS"		# classification
-ps = "2010,2011,2012,2013,2014"	# time period. for looping
+ps = "2010,2011,2012,2013,2014"	# time period.
 r = "360"		# reporting area. refer to: https://comtrade.un.org/data/cache/reporterAreas.json
 p = "all"		# partner country
 rg = "all"		# trade flow 1=import 2=export
